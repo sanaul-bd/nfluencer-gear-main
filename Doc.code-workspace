@@ -1,0 +1,17 @@
+{
+	"folders": [],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JM-B5",
+		"editor.formatOnSave": true
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"name": "http://127.0.0.1:3000/HW/Mileston__  2/8-7_ position & relative album.html",
+				"request": "launch",
+				"url": "http://127.0.0.1:3000/HW/Mileston__  2/8-7_ position & relative album.html"
+			}
+		]
+	}
+}
